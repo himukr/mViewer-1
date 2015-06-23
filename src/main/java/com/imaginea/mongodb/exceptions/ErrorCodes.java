@@ -61,6 +61,7 @@ public interface ErrorCodes {
     String COMMAND_NOT_SUPPORTED = "Command is not yet supported";
     String COMMAND_ARGUMENTS_NOT_SUFFICIENT = "Command arguments are not sufficient";
     String COMMAND_EMPTY = "COMMAND_IS_EMPTY";
+    String OPTIONS_NOT_SUPPORTED = "options with regex key not supported";
 
     //Users & Indexes
     String USERNAME_IS_EMPTY = "USERNAME_IS_EMPTY";

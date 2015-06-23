@@ -4,5 +4,6 @@
 .settings/
 mViewer.log
 target/
+staging/
 *~
 *.iml
